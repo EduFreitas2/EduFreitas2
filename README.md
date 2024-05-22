@@ -1,6 +1,12 @@
-### Olá! Meu nome é Eduardo Freitas
+# Eduardo Freitas do Nascimento Filho
 ##### 📖 Estudante de Matemática Aplicada e Computacional | IME-USP
-#####  💻 Bootcamp JAVA Generation Brasil  
+#####  💻 Bootcamp JAVA Generation Brasil 
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-freitas-do-nascimento/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=White)](efnascimento.filho2@gmail.com)
+
+</div>
 <div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000cd&height=120&section=header"/>
   </div>
